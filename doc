@@ -1,0 +1,46 @@
+#   Column                      Non-Null Count  Dtype
+---  ------                      --------------  -----
+ 0   Unnamed: 0                  14 non-null     int64
+ 1   Name                        14 non-null     object
+ 2   Price                       14 non-null     float64
+ 3   52 Week High                14 non-null     float64
+ 4   52 Week Low                 14 non-null     float64
+ 5   Sector                      14 non-null     object
+ 6   Ticker                      14 non-null     object
+ 7   Finstar Rating              14 non-null     object
+ 8   Ownership Status            14 non-null     object
+ 9   Ownership Value             14 non-null     object
+ 10  Valuation Status            14 non-null     object
+ 11  Valuation Value             14 non-null     object
+ 12  Efficiency Status           14 non-null     object
+ 13  Efficiency Value            14 non-null     object
+ 14  Financials Status           14 non-null     object
+ 15  Financials Value            14 non-null     object
+ 16  Market Capitalization       14 non-null     float64
+ 17  Enterprise Value            14 non-null     float64
+ 18  Number of Shares            14 non-null     float64
+ 19  Price / Equity              14 non-null     float64
+ 20  Price / Book Value          14 non-null     float64
+ 21  Face Value                  14 non-null     object
+ 22  Dividend Yield              14 non-null     object
+ 23  Book Value                  14 non-null     float64
+ 24  Cash / Net Interest Income  14 non-null     float64
+ 25  Debt / Cost to Income       14 non-null     float64
+ 26  Promoter Holding            14 non-null     object
+ 27  Earnings per share          14 non-null     float64
+ 28  Sales Growth / CAR          14 non-null     float64
+ 29  Return on Equity            14 non-null     float64
+ 30  Return on Capital Employed  14 non-null     float64
+ 31  Profit Growth               14 non-null     float64
+ 32  D/E                         14 non-null     float64
+ 33  Price to Cash Flow          14 non-null     float64
+ 34  Interest Coverage Ratio     14 non-null     float64
+ 35  CFO / PAT                   14 non-null     float64
+
+ what do i want to achieve with streaming stock prices?
+
+Background setup:
+I have a list of equities that I want to track. I have the closing price for each of them.
+Say I am getting stock quotes every minute:
+For a given equity, I want to calculate the percentage difference between LTP and last session closing price.
+If the percentage difference is greater than 5%, I want to send a push notification to my android application

@@ -1,0 +1,130 @@
+{
+  "companies": [
+    {
+      "symbol": "CAMS",
+      "exchange": "NSE",
+      "avg_price": 3064,
+      "quantity": 15,
+      "q_result_date": [
+        "2021-08-10"
+      ]
+    },
+    {
+      "symbol": "GPIL",
+      "exchange": "NSE",
+      "avg_price": 375.23,
+      "quantity": 500,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "HAPPSTMNDS",
+      "exchange": "NSE",
+      "avg_price": 1056.90,
+      "quantity": 55,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "avg_price": 1056.90,
+      "quantity": 55,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "exchange": "NSE",
+      "avg_price": 1056.90,
+      "quantity": 55,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "LTIM",
+      "exchange": "NSE",
+      "avg_price": 4336.95,
+      "quantity": 5,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "avg_price": 19470,
+      "quantity": 1,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "PAGEIND",
+      "exchange": "NSE",
+      "avg_price": 36000,
+      "quantity": 5,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "POWERMECH",
+      "exchange": "NSE",
+      "avg_price": 523.25,
+      "quantity": 20,
+      "q_result_date": [
+        "2021-08-06"
+      ]
+    },
+    {
+      "symbol": "SARDAEN",
+      "exchange": "NSE",
+      "avg_price": 713.76,
+      "quantity": 60,
+      "q_result_date": [
+        "2021-07-30"
+      ]
+    },
+    {
+      "symbol": "TATAELXSI",
+      "exchange": "NSE",
+      "avg_price": 6266.4,
+      "quantity": 5,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "exchange": "NSE",
+      "avg_price": 318.47,
+      "quantity": 100,
+      "q_result_date": [
+        "2021-07-26"
+      ]
+    },
+    {
+      "symbol": "TATAPOWER",
+      "exchange": "NSE",
+      "avg_price": 154.97,
+      "quantity": 400,
+      "q_result_date": [
+        "2021-08-06"
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "exchange": "NSE",
+      "avg_price": 3473.33,
+      "quantity": 15,
+      "q_result_date": [
+        "2021-08-06"
+      ]
+    }
+  ]
+}
